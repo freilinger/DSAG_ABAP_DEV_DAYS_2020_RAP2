@@ -1,0 +1,5 @@
+@EndUserText.label: 'ZRAP_SC_PRODUCTS_SFH'
+@OData.schema.name: 'ZPDCDS_SRV'
+define service ZRAP_SC_PRODUCTS_SFH {
+ expose ZSEPMRA_I_PRODUCT_E_SFH; 
+ } 

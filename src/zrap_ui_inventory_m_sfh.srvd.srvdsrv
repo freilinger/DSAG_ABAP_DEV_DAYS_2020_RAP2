@@ -1,0 +1,5 @@
+@EndUserText.label: 'SFH Inventory'
+define service ZRAP_UI_Inventory_M_SFH {
+  expose ZRAP_C_INVENTORY_SFH as Inventory;
+  expose ZRAP_CE_PRODUCTS_SFH as Products;
+}
